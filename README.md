@@ -1,6 +1,5 @@
 # Automotive GNSS Simulation: GPS vs. RTK
-**Developed by Neha Adhikari and Rohit Hanchnal**
-
+**Developed by Neha Adhikari and Rohit Hanchnal**   
 *Part of Coursework for ESE 525: Modern Sensors in AI Applications*
 
 ## Project Context
